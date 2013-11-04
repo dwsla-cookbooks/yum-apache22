@@ -1,45 +1,13 @@
 yum-apache22 Cookbook
 =====================
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+Installs Apache 2.2 or yum based systems. Tested on centos 6.4.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
-
-e.g.
-#### packages
-- `toaster` - yum-apache22 needs toaster to brown your bagel.
-
-Attributes
-----------
-TODO: List you cookbook attributes here.
-
-e.g.
-#### yum-apache22::default
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['yum-apache22']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
-  </tr>
-</table>
+None
 
 Usage
 -----
-#### yum-apache22::default
-TODO: Write usage instructions for each cookbook.
-
-e.g.
 Just include `yum-apache22` in your node's `run_list`:
 
 ```json
@@ -53,9 +21,6 @@ Just include `yum-apache22` in your node's `run_list`:
 
 Contributing
 ------------
-TODO: (optional) If this is a public cookbook, detail the process for contributing. If this is a private cookbook, remove this section.
-
-e.g.
 1. Fork the repository on Github
 2. Create a named feature branch (like `add_component_x`)
 3. Write your change
@@ -65,4 +30,6 @@ e.g.
 
 License and Authors
 -------------------
-Authors: TODO: List authors
+Authors: 
+
+Robert Cuadra (@robertcuadra)
