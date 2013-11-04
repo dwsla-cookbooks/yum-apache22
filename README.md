@@ -32,4 +32,4 @@ License and Authors
 -------------------
 Authors: 
 
-Robert Cuadra (@robertcuadra)
+[Robert Cuadra](https://github.com/robertcuadra)
